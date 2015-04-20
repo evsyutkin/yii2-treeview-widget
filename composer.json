@@ -5,9 +5,9 @@
   "type": "yii2-extension",
   "license": "BSD-3-Clause",
   "support": {
-    "issues": "https://github.com/wbraganca/yii2-treeview-widget/issues",
-    "wiki": "https://github.com/wbraganca/yii2-treeview-widget/wiki/",
-    "source": "https://github.com/wbraganca/yii2-treeview-widget"
+    "issues": "https://github.com/legato1411/yii2-treeview-widget/issues",
+    "wiki": "https://github.com/legato1411/yii2-treeview-widget/wiki/",
+    "source": "https://github.com/legato1411/yii2-treeview-widget"
   },
   "authors": [
     {
