@@ -1,0 +1,24 @@
+{
+  "name": "legato1411/yii2-treeview-widget",
+  "description": "The yii2-treeview widget is a Yii 2 wrapper for the [Treeview](http://bassistance.de/jquery-plugins/jquery-plugin-treeview/). Transform an unordered list into an expandable and collapsable tree, great for unobtrusive navigation enhancements. Supports both location and cookie based persistence.",
+  "keywords": ["yii2", "extension", "widget", "treeview"],
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "support": {
+    "issues": "https://github.com/wbraganca/yii2-treeview-widget/issues",
+    "wiki": "https://github.com/wbraganca/yii2-treeview-widget/wiki/",
+    "source": "https://github.com/wbraganca/yii2-treeview-widget"
+  },
+  "authors": [
+    {
+      "name": "Andrey Evsyutkin",
+      "email": "andrey@evsyutkin.ru"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": { "legato1411\\treeviewtree\\": "" }
+  }
+}
