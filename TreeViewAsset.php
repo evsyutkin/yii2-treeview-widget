@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class TreeViewAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/legato1411/yii2-treeview-widget/src/assets';
+    public $sourcePath = '@vendor/legato1411/yii2-treeview-widget/assets';
 
     public $depends = [
         'yii\web\JqueryAsset',
