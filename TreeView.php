@@ -4,7 +4,6 @@ namespace legato1411\treeview;
 use yii\helpers\Html;
 use yii\helpers\Json;
 
-
 class TreeView extends \yii\base\Widget
 {
     /**
@@ -24,6 +23,7 @@ class TreeView extends \yii\base\Widget
      */
     public function registerAssets()
     {
-//
+        $view = $this->getView();
+        TreeViewAsset::register($view);
     }
 }
