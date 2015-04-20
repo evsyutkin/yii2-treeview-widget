@@ -19,6 +19,6 @@
     "yiisoft/yii2": "*"
   },
   "autoload": {
-    "psr-4": { "legato1411\\treeviewtree\\": "" }
+    "psr-4": { "legato1411\\treeview\\": "" }
   }
 }
